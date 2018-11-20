@@ -1,0 +1,14 @@
+.map-container {
+  height: 100vh;
+  display: flex;
+
+  #restaurants {
+    width: 60%;
+  }
+
+  #map {
+    height: 100%;
+    width: 40%;
+    background: red;
+  }
+}
